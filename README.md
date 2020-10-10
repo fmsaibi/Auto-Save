@@ -1,4 +1,4 @@
-# *Auto-Save*
+# Auto-Save*
 
 How Automate save file outside Shortcuts Folder
 Have you ever wanted to save file in specific location without manually selecting and navigating to the desire folder, then you came to the right place. 
