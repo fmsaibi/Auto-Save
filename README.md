@@ -1,7 +1,8 @@
 # How automate save file outside Shortcuts Folder
 
-Siri Shortcuts restricted you to automatically save any file in any folder of your desire. The app can only automatically save in shortcuts cloud folder. However In case you want to save on different folder, you have to activate “ask where to save” then each time the automation runs it will ask you were to save the file, in which it ruins the idea of the automation.
-I been working on the script which will allow us to save any file in any location we desire (Cloud & Local). Now I will take you through step by steps on how to configure it and get it up running.
+Siri Shortcuts restricted you to automatically save any file in any folder of your desire. The app can only automatically save in the shortcuts cloud folder, but In case you want to save on different folders, you have to activate “Ask Where to Save” then each time the automation runs it will ask you where to save the file. The problem with this method it ruins the idea of automation, and for that reason, I started to write a script that will allow us to save any file in any location we desire(Cloud or On My IPhone).
+
+I will be happy to take you through step by step on how to configure it and get it up running.
 
 
 ### Step 1 – Download Scriptable:
