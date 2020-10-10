@@ -1,9 +1,8 @@
-# Auto-Save*
+# How automate save file outside Shortcuts Folder
 
-How Automate save file outside Shortcuts Folder
-Have you ever wanted to save file in specific location without manually selecting and navigating to the desire folder, then you came to the right place. 
-I been working on script using Scriptable to automate save file outside shortcuts app.
-Here I will take you through step by steps on how to configure it and get it up running.
+Siri Shortcuts restricted you to automatically save any file in any folder of your desire. The app can only automatically save in shortcuts cloud folder. However In case you want to save on different folder, you have to activate “ask where to save” then each time the automation runs it will ask you were to save the file, in which it ruins the idea of the automation.
+I been working on the script which will allow us to save any file in any location we desire (Cloud & Local). Now I will take you through step by steps on how to configure it and get it up running.
+
 
 ### Step 1 – Download Scriptable:
 Download app called scriptable at app store, and if you already have it then skip to step 2.
@@ -24,7 +23,7 @@ Download app called scriptable at app store, and if you already have it then ski
 
 ### Step 4 - Run it On Siri Shortcuts:
 1.	Open your Shortcuts project the one you want to save file in specific location .
-2.	Click on add Action > Apps > Scriptable > Run Script ( Now Run Script it will be added in the Action).
+2.	Click on add Action > Apps > Scriptable and chose Run Script ( Now Run Script it will be added in the Action).
 3.	Tap on Script next to Run and Chose Auto Save.
 4.	In The Parameter section leave it blank then Tap on the Show More.
 5.	Under Texts type the following “local:” for local Drive or “Cloud:” for iCloud Drive following the Path where you want to save. See Example Below.
