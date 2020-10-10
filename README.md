@@ -28,8 +28,8 @@ Download app called scriptable at app store, and if you already have it then ski
 3.	Tap on Script next to Run and Chose Auto Save
 4.	In The Parameter section leave it blank then Tap on the Show More.
 5.	Under Texts type the following “local:” for local Drive or “Cloud:” for iCloud Drive following the Path where you want to save. See Example Below 
-•	Example 1: local:/Photos/Events/
-•	Example 2: cloud:/Photos/Events/
+⋅⋅* Example 1: local:/Photos/Events/
+⋅⋅* Example 2: cloud:/Photos/Events/
 If the folder you specify is not exists, it will automatic create.
 6.	In Files section tap on chose select Magic Variable of the action which returns file(Image, PDF, MP3….etc)
 7.	Finally in the Show When Run tap on the green button to switch it off. 
