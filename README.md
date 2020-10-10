@@ -1,9 +1,12 @@
 # How automate save file outside Shortcuts Folder
 
-Siri Shortcuts restricted you to automatically save any file in any folder of your desire. The app can only automatically save in the shortcuts cloud folder, but In case you want to save on different folders, you have to activate “Ask Where to Save” then each time the automation runs it will ask you where to save the file. The problem with this method it ruins the idea of automation, and for that reason, I started to write a script that will allow us to save any file in any location we desire(Cloud or On My IPhone).
+Siri Shortcuts restricted you to automatically save any file in any folder of your desire. The app can only automatically save in the shortcuts cloud folder, but In case you want to save on different folders, you have to activate “Ask Where to Save” 
+
+            ![GitHub Logo](/Images/Ask.GIF)
+
+Now each time you run automation it will ask you where to save the file. The problem with this method it ruins the idea of automation, and for that reason, I started to write a script that will allow us to save any file in any location we desire(Cloud or On My IPhone).
 
 I will be happy to take you through step by step on how to configure it and get it up running.
-
 
 ### Step 1 – Download Scriptable:
 Download app called scriptable at app store, and if you already have it then skip to step 2.
@@ -12,9 +15,11 @@ Download app called scriptable at app store, and if you already have it then ski
 1.	Open your scriptable app, click on button located at top left which has gear icon
 2.	Scroll Down and tap on File Bookmarks
 3.	In File Bookmarks page you will have to create two bookmarks, one for “iCloud Drive” and other is for “On My iPhone”
-4.	To create the book mark click on the plus sign at the top right corner, then chose Pick Folder
+4.	To create the bookmark click on the plus sign at the top right corner, then chose Pick Folder
 5.	Select “iCloud Drive” then click done, you will be promoted to choose name… type ‘’iCloud Drive’’ without quotes.
-6.	Create smiler for ‘’On My iPhone’’ and Type name as “Local Drive” without quotes
+            ![GitHub Logo](/Images/Storage.png)
+6.	Create smiler for ‘’On My iPhone’’ and Type name as “Local Drive” without quotes.
+            ![GitHub Logo](/Images/Bookmark.png)
 7.	Once you complete you can go back to the scriptable home screen.
 
 ### Step 3 - Adding Script:
@@ -31,9 +36,11 @@ Download app called scriptable at app store, and if you already have it then ski
     - Example 1: local:/Photos/Events/
     - Example 2: cloud:/Photos/Events/
 6.	In Files section tap on chose select Magic Variable of the action which returns file(Image, PDF, MP3….etc).
-7.	Finally in the Show When Run tap on the green button to switch it off. 
+7.	Finally switch off Show When Run. 
 
 ### Step 5:
 Run the Application and Enjoy it.
+
+![GitHub Logo](/Images/Saving.gif)
 
 
