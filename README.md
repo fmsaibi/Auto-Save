@@ -1,4 +1,4 @@
-# How automate save file outside Shortcuts Folder
+# How to automate save file outside Shortcuts Folder
 
 Siri Shortcuts restricted you to automatically save any file in any folder of your desire. The app can only automatically save in the shortcuts cloud folder, but In case you want to save on different folders, you have to activate “Ask Where to Save” 
 
