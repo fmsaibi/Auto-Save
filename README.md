@@ -2,7 +2,9 @@
 
 Siri Shortcuts restricted you to automatically save any file in any folder of your desire. The app can only automatically save in the shortcuts cloud folder, but In case you want to save on different folders, you have to activate “Ask Where to Save” 
 
- ![GitHub Logo](/Images/Ask.GIF)
+ <p align="center">
+  <img src="https://github.com/fmsaibi/Auto-Save/blob/main/Images/Ask.GIF" alt="Sublime's custom image"/>
+</p>
 
 Now each time you run automation it will ask you where to save the file. The problem with this method it ruins the idea of automation, and for that reason, I started to write a script that will allow us to save any file in any location we desire(Cloud or On My IPhone).
 
@@ -18,11 +20,14 @@ Download app called scriptable at app store, and if you already have it then ski
 4.	To create the bookmark click on the plus sign at the top right corner, then chose Pick Folder
 5.	Select “iCloud Drive” then click done, you will be promoted to choose name… type ‘’iCloud Drive’’ without quotes.
 
-![GitHub Logo](/Images/Storage.png)
+<p align="center">
+  <img src="https://github.com/fmsaibi/Auto-Save/blob/main/Images/Storage.png" alt="Sublime's custom image"/>
+</p>
 
 6.	Create smiler for ‘’On My iPhone’’ and Type name as “Local Drive” without quotes.
-
-![GitHub Logo](/Images/Bookmark.png)
+<p align="center">
+  <img src="https://github.com/fmsaibi/Auto-Save/blob/main/Images/Bookmark.png" alt="Sublime's custom image"/>
+</p>
 
 7.	Once you complete you can go back to the scriptable home screen.
 
@@ -41,12 +46,13 @@ Download app called scriptable at app store, and if you already have it then ski
     - Example 2: cloud:/Photos/Events/
 6.	In Files section tap on chose select Magic Variable of the action which returns file(Image, PDF, MP3….etc).
 7.	Finally switch off Show When Run.
-
-![GitHub Logo](/Images/How.png)
+<p align="center">
+  <img src="https://github.com/fmsaibi/Auto-Save/blob/main/Images/How.png" alt="Sublime's custom image"/>
+</p>
 
 ### Step 5:
 Run the Application and Enjoy it.
-
-![GitHub Logo](/Images/Saving.gif)
-
+<p align="center">
+  <img src="https://github.com/fmsaibi/Auto-Save/blob/main/Images/Saving.gif" alt="Sublime's custom image"/>
+</p>
 
