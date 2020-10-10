@@ -2,7 +2,7 @@
 
 Siri Shortcuts restricted you to automatically save any file in any folder of your desire. The app can only automatically save in the shortcuts cloud folder, but In case you want to save on different folders, you have to activate “Ask Where to Save” 
 
-            ![GitHub Logo](/Images/Ask.GIF)
+ ![GitHub Logo](/Images/Ask.GIF)
 
 Now each time you run automation it will ask you where to save the file. The problem with this method it ruins the idea of automation, and for that reason, I started to write a script that will allow us to save any file in any location we desire(Cloud or On My IPhone).
 
@@ -36,7 +36,8 @@ Download app called scriptable at app store, and if you already have it then ski
     - Example 1: local:/Photos/Events/
     - Example 2: cloud:/Photos/Events/
 6.	In Files section tap on chose select Magic Variable of the action which returns file(Image, PDF, MP3….etc).
-7.	Finally switch off Show When Run. 
+7.	Finally switch off Show When Run.
+![GitHub Logo](/Images/How.jpg)
 
 ### Step 5:
 Run the Application and Enjoy it.
