@@ -1,9 +1,9 @@
 /*-------------General Note-------------*
 *This script written with Scriptable and it is intended to be used with Siri Shortcuts.
 *To run this script you will need to downlaod Scriptable & Siri Shortcuts on you iOS
-*/
-/*
-*Get Input text from Shortcuts app
+*To be Able to use this script, please follow instruction in the README 
+
+
 *Follow Exmple below on how the text should be Written 
 *local and cloud should be in small letters following by :
 *Folder Path are case senstive
