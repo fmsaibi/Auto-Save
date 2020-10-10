@@ -6,7 +6,7 @@ Siri Shortcuts restricted you to automatically save any file in any folder of yo
   <img src="https://github.com/fmsaibi/Auto-Save/blob/main/Images/Ask.GIF" alt="Sublime's custom image"/>
 </p>
 
-Now each time you run automation it will ask you where to save the file. The problem with this method it ruins the idea of automation, and for that reason, I started to write a script that will allow us to save any file in any location we desire(Cloud or On My IPhone).
+Now each time you run automation it will ask you where to save the file. The problem with this method it ruins the idea of automation, and for that reason, i wrote small script that will allow us to save any file in any location we desire(Cloud or On My IPhone).
 
 I will be happy to take you through step by step on how to configure it and get it up running.
 
