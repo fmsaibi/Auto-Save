@@ -17,9 +17,13 @@ Download app called scriptable at app store, and if you already have it then ski
 3.	In File Bookmarks page you will have to create two bookmarks, one for “iCloud Drive” and other is for “On My iPhone”
 4.	To create the bookmark click on the plus sign at the top right corner, then chose Pick Folder
 5.	Select “iCloud Drive” then click done, you will be promoted to choose name… type ‘’iCloud Drive’’ without quotes.
-            ![GitHub Logo](/Images/Storage.png)
+
+![GitHub Logo](/Images/Storage.png)
+
 6.	Create smiler for ‘’On My iPhone’’ and Type name as “Local Drive” without quotes.
-            ![GitHub Logo](/Images/Bookmark.png)
+
+![GitHub Logo](/Images/Bookmark.png)
+
 7.	Once you complete you can go back to the scriptable home screen.
 
 ### Step 3 - Adding Script:
@@ -37,6 +41,7 @@ Download app called scriptable at app store, and if you already have it then ski
     - Example 2: cloud:/Photos/Events/
 6.	In Files section tap on chose select Magic Variable of the action which returns file(Image, PDF, MP3….etc).
 7.	Finally switch off Show When Run.
+
 ![GitHub Logo](/Images/How.jpg)
 
 ### Step 5:
