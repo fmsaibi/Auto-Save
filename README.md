@@ -42,7 +42,7 @@ Download app called scriptable at app store, and if you already have it then ski
 6.	In Files section tap on chose select Magic Variable of the action which returns file(Image, PDF, MP3….etc).
 7.	Finally switch off Show When Run.
 
-![GitHub Logo](/Images/How.jpg)
+![GitHub Logo](/Images/How.png)
 
 ### Step 5:
 Run the Application and Enjoy it.
