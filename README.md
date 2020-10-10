@@ -19,7 +19,7 @@ Download app called scriptable at app store, and if you already have it then ski
 
 ### Step 3 - Adding Script:
 1.	On Scriptable Home Page click on the plus button at the top right coroner.
-2.	Then add the following Script:
+2.	Then add the following [Script](https://github.com/fmsaibi/Auto-Save/blob/main/script.js)
 3.	Save the Script as Auto Save.
 
 ### Step 4 - Run it On Siri Shortcuts:
